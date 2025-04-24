@@ -262,7 +262,7 @@
         <targetDevice>ATSAME51J20A</targetDevice>
         <targetHeader></targetHeader>
         <targetPluginBoard></targetPluginBoard>
-        <platformTool>noID</platformTool>
+        <platformTool>nEdbgTool</platformTool>
         <languageToolchain>XC32</languageToolchain>
         <languageToolchainVersion>4.50</languageToolchainVersion>
         <platform>3</platform>
@@ -1590,7 +1590,6 @@
         <property key="toolpack.updateoptions.packversion"
                   value="Press to select which tool pack to use"/>
         <property key="voltagevalue" value=""/>
-        <property key="x.erase.clearprot" value="true"/>
       </nEdbgTool>
     </conf>
   </confs>
